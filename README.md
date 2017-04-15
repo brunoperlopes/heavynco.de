@@ -1,2 +1,2 @@
-# Heavy n' Code
-We website.
+# Heavynco.de
+Our website.
